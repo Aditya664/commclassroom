@@ -76,7 +76,7 @@ h6 {
   }
 
   .image_mobile{
-   display:block;
+   display:inline;
       text-align: center;
   }
 }
