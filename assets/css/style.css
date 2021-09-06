@@ -1146,10 +1146,35 @@ section {
 }
 
 #contact .footer-top .social-links a:hover {
-    background-color: #5f687b;
-    color: #eaecef;
+    /* background-color: #5f687b;
+    color: #eaecef; */
     text-decoration: none;
+    transform: scale(1.25);
+    cursor: pointer;
 }
+/* ----fill colour in social media icon---- */
+#contact .footer-top .social-links .twitter:hover{
+        color: #fff;
+        background-color: #55acee;
+} 
+#contact .footer-top .social-links .instagram:hover{
+        color: #fff;
+        background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+} 
+#contact .footer-top .social-links .linkedin:hover{
+        color: #fff;
+        background-color: #2867B2;
+} 
+#contact .footer-top .social-links .telegram:hover{
+        color: #fff;
+        background-color: #0088CC;
+} 
+#contact .footer-top .social-links .discord:hover{
+        color: #fff;
+        background-color: #7289d9 ;
+} 
 
 #contact .footer-bottom {
     border-top: 1px solid #d9dce2;
