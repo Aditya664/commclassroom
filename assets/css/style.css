@@ -451,7 +451,9 @@ h6 {
 #hero .animated {
     animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
-
+.img-fluid{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
 @media (max-width: 991px) {
     #hero {
         height: 100vh;
@@ -957,6 +959,7 @@ section {
 .universityleader .universityleader-btn:hover {
     background: #fff;
     color: #206bfb;
+    
     border-color: #206bfb;
 }
 
