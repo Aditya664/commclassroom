@@ -1,2 +1,2 @@
-this is demo file used for git practice
+It is demo file used for git practice
 
