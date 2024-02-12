@@ -1,3 +1,3 @@
 # Community Classroom Website
 
--Brian Morande finds Kunal's training on git amazing!
+-Abiral karki has been following the The Odin Project.
