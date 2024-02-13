@@ -1,3 +1,4 @@
 # Community Classroom Website
 
--Pranav Sharma says that this Website is amazing.
+-Brian Morande finds Kunal's training on git amazing!
+-Pranav Sharma says that this community is amazing.
